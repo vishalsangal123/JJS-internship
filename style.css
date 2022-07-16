@@ -1,0 +1,95 @@
+#container
+{
+   
+    background-color:aqua
+    
+}
+.contact
+{
+     position: absolute; 
+width: 100%;
+height: 880px;
+left: 0px;
+background: linear-gradient(180deg, rgba(13, 105, 134, 0.8) 0%, rgba(13, 105, 134, 0.27) 100%);
+}
+
+.menu
+{
+    color:white;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 20px 100px;
+position: absolute;
+height: 115px;
+left: 0px;
+right: 0px;
+top: 0px;
+height:80px;
+background: rgba(13, 105, 134, 0.8);
+ }
+ .btn
+ {
+    background: #8EC7D2;
+       border-radius: 10px;
+       padding:12px, 28px, 12px, 28px;
+       
+       
+ }
+ .conbtn
+ {
+    font-family:'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 16px;
+color: #00475D;
+}
+.contactus
+{
+position: absolute;
+height: 59px;
+  left: 43%;
+right: 40%; 
+top: 25%;
+font-family:'Times New Roman', Times, serif;
+font-size: 40px;
+line-height: 59px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+color:white;
+font-weight: bold;
+flex-direction: row;
+}
+.contactu{
+    position: absolute;
+height: 59px;
+left:45%;
+right:40%;
+top: 20%;
+font-family: 'Work Sans';
+font-size: 20px;
+line-height: 59px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+color:white;
+text-align: center;
+    
+}
+li a
+{
+    color:white;
+    
+}
+li a:hover
+{
+    color:brown;
+    text-decoration-line: underline;
+    opacity:5;
+
+}
+
